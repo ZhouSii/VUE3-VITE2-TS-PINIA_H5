@@ -1,0 +1,10 @@
+@import './transition.scss';
+@import './reset-style.scss';
+@import './reset-vant-style.scss';
+
+.folder {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
